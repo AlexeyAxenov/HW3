@@ -4,3 +4,4 @@ public class Apple extends Fruit {
         return (1.0f);
     }
 }
+//commit
